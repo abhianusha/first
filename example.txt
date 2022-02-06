@@ -6,3 +6,4 @@ using devops purpose
 that is merge confilct
 this is line added
 this third line
+this is using for devops
