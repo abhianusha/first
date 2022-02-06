@@ -7,3 +7,5 @@ that is merge confilct
 this is line added
 this third line
 this is using for devops
+this is for using linux
+
