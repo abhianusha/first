@@ -3,5 +3,6 @@ this is using for devops purpose
 i used linux commands for practicing purpose
 this is something to remember
 using devops purpose
-that is merge confilcts
+that is merge confilct
 this is line added
+this third line
